@@ -1,1 +1,5 @@
-# td69_discordjs_template
+# TD69 DISCORDJS TEMPLATE BOT
+
+INSTALL BY NPM
+```
+npm i discord.js ```
