@@ -2,4 +2,4 @@
 
 INSTALL BY NPM
 ```
-npm i discord.js ```
+npm i discord.js
