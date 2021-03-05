@@ -5,7 +5,7 @@
 npm install
 ```
 
-**INSTALL BY NODEMON**
+**RUN BY NODEMON**
 ```
 npm run devStart
 ```
